@@ -15,6 +15,6 @@ Sedeen-PIIP-Plugins
 |---NeatPlugin
 ```
 
-To start, create a **repository** for your plugin under the **Sedeen PIIP Plugins** organization. From here, work on your plugins and files however you please.
+To start, create a **repository** for your plugin under the **Sedeen PIIP Plugins** organization. From here, work on your plugin however you please.
 
-Please try to use [CMake](https://cmake.org/) as your project generator. This will make your plguin easy to integrate with the existing Sedeen infrastructure.
+Please try to use [CMake](https://cmake.org/) as your project generator. This will make your plugin easy to integrate with the existing Sedeen infrastructure.
