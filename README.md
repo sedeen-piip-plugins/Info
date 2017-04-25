@@ -4,7 +4,7 @@ This organization contains repositories for PIIP plugins developed for Sedeen.
 
 # How to Contribute
 
-If you haven't already, please email Tasos (tasos.stamadianos@pathcore.com) your GitHub username + email to get an invite to this organization.
+If you haven't already, please email Deyu (deyu.wang@pathcore.com) your GitHub username + email to get an invite to this organization.
 
 The structure in this organization looks like this, where each plugin is a repository:
 
